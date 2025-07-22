@@ -4,4 +4,5 @@ I am following the FreeCodeCamp.org tutorial on youtube. So far so good!!!
 
 ## Made this subheader from vscode
 
-yay
+## Local Development
+1. open index.html in browser
